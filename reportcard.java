@@ -1,7 +1,7 @@
 package com.example.android.miwok;
 
 /**
- * Created by KUBRAMEVLUT on 3.04.2018.
+ * Created by hacerkubra on 3.04.2018.
  */
 
 public class reportcard {
